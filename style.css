@@ -1,0 +1,84 @@
+ *{ 
+    margin-top:0px;
+    padding:0px;
+    
+}
+body{
+    margin-left: 5rem;
+    display: flex;
+    justify-content: center;
+}
+header{
+    background-color: grey;
+    width: 200px;
+    margin-bottom: 40rem;
+}
+img{
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-right: 40px}
+p{
+    margin-bottom: 0.3rem;
+}
+h2{
+    margin-bottom: 1rem;
+    text-align: center;
+    border-radius: 4px;
+    background-color: pink;
+    color: white;
+    font-family:sans-serif;
+
+}
+ .profile{
+    border: 10px solid;
+    border-right: 10px solid;
+    margin: 52rem;
+
+    }
+.contract{ 
+    border-radius: 150px;
+    margin: 1%;
+
+
+
+}
+.skills{
+    border-right: 10px;
+    padding-bottom: 50rem;
+    margin: 0.5rem;
+    
+
+}
+aside{
+    padding-bottom: 30rem;
+    margin-bottom: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: gray;
+    height: 290px;
+    width: 28rem;
+}
+aside h1{
+    font-size: 4rem;
+    }
+    h4{
+        font-size: 2rem;
+    }
+    #top h1:hover{
+        text-shadow: 2px 3px 6px rgb(0, 255, 179);
+    }
+    .education{
+        margin:1.8rem;
+    }
+    .experience{
+        padding: 0.5rem;
+        margin: 1px;
+    }
+    .projects{
+        padding: 0.5rem;
+        margin: 2rem;
+        text-align: center;
+        
+    }
